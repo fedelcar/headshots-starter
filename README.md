@@ -10,7 +10,7 @@ Introducing Headshot AI, an open-source project from [Leap AI](https://tryleap.a
 
 Live demo **[here](https://getheadshots.ai)**.
 
-The app is powered by:
+The app is powered by
 
 - 🚀 [Leap AI](https://tryleap.ai/) for AI model training
 - 🚀 [Leap AI](https://tryleap.ai/) to generate headshots
